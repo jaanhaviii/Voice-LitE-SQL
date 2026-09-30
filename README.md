@@ -348,4 +348,4 @@ dashboard at `http://127.0.0.1:8000` automatically.
   SSE stream, pipeline-error, progress-hook restore tests).
 - Frontend: `npm --prefix frontend run test` (Vitest + jsdom).
 
-Author: Eugene Elias
+Author: janhavi srivastava
